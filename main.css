@@ -24,6 +24,8 @@ body{
 	padding:9px 23px;
 	text-decoration:none;
     text-shadow:1px -1px 2px #77706f;
+    justify-content: center;
+    align-items: flex-end;
     
     
     letter-spacing: 2px;
