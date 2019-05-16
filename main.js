@@ -3,12 +3,12 @@ var entry = document.querySelector("#hiText");
 
 btn.addEventListener("click", function(){
 
-    entry.textContent = "Hellooooo motherfucker....";
+    entry.textContent = "Hellooooo Awesome....";
 
-    let storyPara = document.createElement('p');
+    let storyPara =document.querySelector("#newbtn");
     storyPara.textContent = "don't forgit to commit...."
     storyPara.classList.add('story');
-    document.body.appendChild(storyPara);
+    
 });
 
 entry.addEventListener("mouseover", function()
