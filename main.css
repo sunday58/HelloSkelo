@@ -1,8 +1,10 @@
 body{
-    background-image:url("images/best-skull-wallpapers-7.jpg");
+    background-image:url("images/new_image.jpg");
     font-family: 'Anton', sans-serif;
     color: white;
     font-size: 60px;
+    background-repeat: no-repeat;
+    background-size: cover;
     letter-spacing: 1px;
     padding: 20px;
 }
@@ -22,6 +24,7 @@ body{
 	padding:9px 23px;
 	text-decoration:none;
     text-shadow:1px -1px 2px #77706f;
+    
     
     letter-spacing: 2px;
     font-family: 'Cute Font', cursive;
